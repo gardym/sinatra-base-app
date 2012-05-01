@@ -8,7 +8,7 @@ require 'spec_helper'
 # 	end	
 # end
 
-describe "Gists Controller" do
+describe "[appname] Controller" do
 	include Rack::Test::Methods
 
 	def app
